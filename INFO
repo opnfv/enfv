@@ -1,0 +1,21 @@
+Project: Edge NFV (eNFV)
+Project Creation: 5 Oct 2016
+Project Category: Requirements
+Lifecycle State: Incubation
+Primary Contact: James Buchanan (jbuchanan@advaoptical.com)
+Project Lead: James Buchanan
+Jira Project Name: EdgeNFV
+Mailing list tag: eNFV
+Jira Project Prefix: eNFV
+IRC: #opnfv-eNFV
+Repository: enfv
+
+Committers:
+diego.lozanodefournas@spirent.com
+fuqiao@chinamobile.com
+jbuchanan@advaoptical.com
+m.kloberdans@cablelabs.com
+prayson.pate@overturenetworks.com
+
+Link to TSC approval of the project: http://meetbot.opnfv.org/meetings/opnfv-meeting/2015/opnfv-meeting.2015-08-18-13.58.html
+Link(s) to approval of additional committers:
