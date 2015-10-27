@@ -11,6 +11,7 @@ How to create documentation for your OPNFV project
 ==================================================
 
 this is the directory structure of the docs/ directory that can be found in the root of your project directory
+foo
 
 .. code-block:: bash
 
