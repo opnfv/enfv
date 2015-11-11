@@ -28,7 +28,7 @@ latex_elements = {
     'printindex': '',
 }
 
-project = u'OPNFV: Template documentation config'
+project = u'ENFV: Edge NFV requirements project'
 copyright = u'%s, OPNFV' % datetime.date.today().year
 version = u'1.0.0'
 release = u'1.0.0'
