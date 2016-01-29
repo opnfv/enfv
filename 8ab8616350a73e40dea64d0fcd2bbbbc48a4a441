@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a4e6583_33edab8c",
+        "filename": "docs/requirements/index.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2016-01-29T05:08:25Z",
+      "side": 1,
+      "message": "delete those lines which are not needed anymore",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 14
+      },
+      "revId": "8ab8616350a73e40dea64d0fcd2bbbbc48a4a441",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a4e6583_1302af3e",
+        "filename": "docs/requirements/index.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2016-01-29T05:08:25Z",
+      "side": 1,
+      "message": "This willbe the title of the document. You can set \u0027ENFV: Edge NFV requirements project\u0027 here. But, add overline too.",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 32
+      },
+      "revId": "8ab8616350a73e40dea64d0fcd2bbbbc48a4a441",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a4e6583_f3fef337",
+        "filename": "docs/requirements/index.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2016-01-29T05:08:25Z",
+      "side": 1,
+      "message": "delete these as well",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 19
+      },
+      "revId": "8ab8616350a73e40dea64d0fcd2bbbbc48a4a441",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
