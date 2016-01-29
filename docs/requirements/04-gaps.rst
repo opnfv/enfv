@@ -14,7 +14,7 @@ Network  related gaps
     1GE interfaces are not part of CI.
 
 3. Tunneling technology: 
-    a. Case isolated NFVI - 802.1ad S-VLAN or MPLS.
+    a. Case stand-alone NFVI - 802.1ad S-VLAN or MPLS.
     #. Case distributed NFVI - VXLAN or NVGRE over 802.1ad.
         * VXLAN and NVGRE tunnels don't support OAM check.
     #. All above tunneling technology don't support integrity check.
@@ -58,7 +58,3 @@ Deployment gaps
 #. Kernel and Hypervisor are hardened. Only OpenStack agents might be added during deployment.
 #. AMT or IPMI shall not be used for SW deployment.
 
-Revision: _sha1_
-
-
-Build date: |today|

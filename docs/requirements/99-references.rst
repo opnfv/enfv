@@ -12,6 +12,3 @@ References and bibliography
 .. [firewall] OpenStack FW, [Online]. Available at
           http://docs.openstack.org/juno/config-reference/content/firewalls-default-ports.html
 
-Revision: _sha1_
-
-Build date: |today|

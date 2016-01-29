@@ -12,6 +12,8 @@ mapping/translating the OPNFV terms to terminology used in other contexts.
 
     CPE
         Customer Premices Equipment
+    CSP
+        Communication Service Provider
     DC
         Data Center
     NFV
@@ -23,6 +25,3 @@ mapping/translating the OPNFV terms to terminology used in other contexts.
     vE-CPE
         Virtual Enterprise-Customer Premises Equipment
         
-Revision: _sha1_
-
-Build date: |today|

@@ -4,7 +4,10 @@ High level architecture and general features
 Functional overview
 -------------------
 
-Functional overview is here.
+We foresee two OpenStack deployment models:
+ 1. Single-cloud. Centralized OpenStack controller and ENFVI nodes are Compute nodes
+ 2. Multi-cloud. Each NFVI node contains OpenStack controller, thus it becomes "embedded cloud" 
+    with single compute node
 
 Architecture Overview
 ---------------------
@@ -21,7 +24,3 @@ High level northbound interface specification
 
 What is northbound here? VIM controller?
 
-
-Revision: _sha1_
-
-Build date: |today|
