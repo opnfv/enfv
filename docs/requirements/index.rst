@@ -1,8 +1,5 @@
 ENFV: Edge NFV requirements project
-====================================
-
-Contents:
-
+***********************************
 .. toctree::
    :maxdepth: 4
 

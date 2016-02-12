@@ -23,5 +23,4 @@ mapping/translating the OPNFV terms to terminology used in other contexts.
         Network Function Virtualization Infrastructure
 
     vE-CPE
-        Virtual Enterprise-Customer Premises Equipment
-        
+        Virtual Enterprise-Customer Premises Equipment        
