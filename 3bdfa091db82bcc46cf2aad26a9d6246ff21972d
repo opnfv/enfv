@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a4e6583_4106f121",
+        "filename": "docs/requirements/index.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2016-02-12T10:58:31Z",
+      "side": 1,
+      "message": "it should be nice to add overline and use \u0027*\u0027 instead of \u0027\u003d\u0027",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 36
+      },
+      "revId": "3bdfa091db82bcc46cf2aad26a9d6246ff21972d",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a4e6583_2103f510",
+        "filename": "docs/requirements/index.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2016-02-12T10:58:31Z",
+      "side": 1,
+      "message": "You can delete this line since this adding 2 blank pages in pdf",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 8
+      },
+      "revId": "3bdfa091db82bcc46cf2aad26a9d6246ff21972d",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
