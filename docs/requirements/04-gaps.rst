@@ -34,9 +34,9 @@ Hypervisor gaps
    VM and its resource usage.
 OpenStack gaps
 --------------
-Later shoudl be per specific component? (nova, neutron...)
+Later should be per specific component? (nova, neutron...)
 
-  OpenStack Nova
+OpenStack Nova
   1. Management system should support dozen of thousands individual hosts.
      Currently each Edge Host is allocated in individual zone, is this approach scalable?
   2. Host is explicitly selected effectively bypassing NOVA scheduler
