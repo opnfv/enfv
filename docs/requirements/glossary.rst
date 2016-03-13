@@ -11,7 +11,7 @@ mapping/translating the OPNFV terms to terminology used in other contexts.
 .. glossary::
 
     CPE
-        Customer Premices Equipment
+        Customer Premises Equipment
     CSP
         Communication Service Provider
     DC
