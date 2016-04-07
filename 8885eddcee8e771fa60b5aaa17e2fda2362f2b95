@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_d0363103",
+        "filename": "docs/requirements/02-use_cases.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1230
+      },
+      "writtenOn": "2016-04-07T11:19:20Z",
+      "side": 1,
+      "message": "Not sure it is 100% correct- communications are based on TLS , Keystone is the authentication authority, so for me it is pretty secured. What is not secured?",
+      "range": {
+        "startLine": 48,
+        "startChar": 6,
+        "endLine": 48,
+        "endChar": 46
+      },
+      "revId": "8885eddcee8e771fa60b5aaa17e2fda2362f2b95",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
