@@ -30,7 +30,10 @@ introduce versus a typical data center (DC) deployment.
     explicit VNF removing via management system.
 
 #. Distributed Base station.
-    TBD. What is the difference for it?
+    Base station is the cellular towers that handle 3G/4G/4G LTE wireless communications with the UE
+    at handsets, smartphones, and smart devices. The base stations are usually macro base stations.
+    Distributed base station is a centralized base stations that are deployed in multiple units
+    synchronized the efforts among one another.
 
 #. Network connectivity.
     In most cases CPE is connected to Metro Ethernet [#f1]_ .
