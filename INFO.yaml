@@ -1,0 +1,52 @@
+---
+project: 'Edge NFV (eNFV)'
+project_creation_date: '5 Oct 2016'
+project_category: 'Requirements'
+lifecycle_state: 'Incubation'
+project_lead: &opnfv_enfv_ptl
+    name: 'James Buchanan'
+    email: 'jbuchanan@advaoptical.com'
+    id: 'jbuchanan'
+    company: 'advaoptical.com'
+    timezone: 'Unknown'
+primary_contact: *opnfv_enfv_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.opnfv.org/projects/eNFV'
+    key: 'eNFV'
+mailing_list:
+    type: 'mailman2'
+    url: 'opnfv-tech-discuss@lists.opnfv.org'
+    tag: '[enfv]'
+realtime_discussion:
+    type: irc
+    server: 'freenode.net'
+    channel: '#opnfv-enfv'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda:  # eg: 'https://wiki.opnfv.org/display/'
+      url:  # eg: 'https://global.gotomeeting.com/join/819733085'
+      server: 'freenode.net'
+      channel: '#opnfv-meeting'
+      repeats: 'weekly'
+      time:  # eg: '16:00 UTC'
+repositories:
+    - 'enfv'
+committers:
+    - <<: *opnfv_enfv_ptl
+    - name: 'Qiao Fu'
+      email: 'fuqiao@chinamobile.com'
+      company: 'chinamobile.com'
+      id: 'fuqiao'
+    - name: 'Michael Kloberdans'
+      email: 'm.kloberdans@cablelabs.com'
+      company: 'cablelabs.com'
+      id: 'm.kloberdans'
+    - name: 'Prayson Pate'
+      email: 'ppate@advaoptical.com'
+      company: 'advaoptical.com'
+      id: 'praysonpate'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'http//meetbot.opnfv.org/meetings/opnfv-meeting/2015/opnfv-meeting.2015-08-18-13.58.html'
+    # yamllint enable rule:line-length
